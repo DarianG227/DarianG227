@@ -26,9 +26,10 @@ Here are some ideas to get you started:
   Hola, mucho gusto, me llamo Darián Grabano. Soy un joven que ama aprender y le encanta la tecnología. Estoy dispuesto a aprender de quienes más saben y estoy en busca de mis primeras experiencias y oportunidades en este rubro. A continuación, dejo información sobre mí. Pueden escribirme a través de mis redes sociales o por correo electrónico. ¡Saludos!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dariangrabano222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://www.facebook.com/darian.grabano/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqBQqwkpZZdBjKWbMjzTwNrjtTHqkswwcWsDVGDpdqmFZPBpFLrcNXbGvPBRLBnRQdQB" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.linkedin.com/in/dariangrabano222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dariangrabano222"/></a>
+<a href="https://www.facebook.com/darian.grabano/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="darian.grabano"  /></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqBQqwkpZZdBjKWbMjzTwNrjtTHqkswwcWsDVGDpdqmFZPBpFLrcNXbGvPBRLBnRQdQB" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dariangrabano22@gmail.com"/></a>
+<a href = "https://www.instagram.com/nahuelgra22"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nahuelgra22"/></a> 
   </p>
 
   
