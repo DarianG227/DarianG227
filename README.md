@@ -91,4 +91,4 @@ Here are some ideas to get you started:
 <br>
 
 # 🔥 Streak Stats & Languages
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarianG227&theme=algolia&layout=compact" alt="DarianG227" /></p>
